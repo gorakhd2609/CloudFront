@@ -27,15 +27,7 @@ User → CloudFront → S3 Bucket
 
 ## 📸 Screenshots
 
-### S3 Setup
-![S3](screenshots/01-s3-bucket.png)
-
-
-### CloudFront Distribution
-![CloudFront](screenshots/03-cloudfront-distribution.png)
-
-### Final Output
-![Output](screenshots/05-final-output.png)
+All practical screenshots are available in the `screenshots/` folder.
 
 ---
 
@@ -59,5 +51,3 @@ Check: `practical-implementation/setup-steps.md`
 - Static websites
 - Image & video delivery
 - Scalable applications
-
----
